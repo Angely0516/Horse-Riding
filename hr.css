@@ -1,0 +1,15 @@
+body {
+  text-align:center;
+  
+}
+h1 {
+  background-color:gray;
+  width:60%;
+}
+img {
+  border-style:dashed;
+  padding:5px;
+  width:350px;
+  height:350px;
+  background-color:gray;
+}
